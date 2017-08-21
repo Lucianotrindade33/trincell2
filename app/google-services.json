@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "753444343054",
+    "firebase_url": "https://trincell-d7bfe.firebaseio.com",
+    "project_id": "trincell-d7bfe",
+    "storage_bucket": "trincell-d7bfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753444343054:android:45770328f5753ae7",
+        "android_client_info": {
+          "package_name": "com.example.lucia.trincell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753444343054-u8qik06erq4bqm967u988lsmos2c0ijn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucia.trincell",
+            "certificate_hash": "a1d519cc5df4ba76b245d49aecb7d5de490f08b4"
+          }
+        },
+        {
+          "client_id": "753444343054-bfrgc9pidujnnalvg2nllp0r1dd3dhau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ujlG3sN9w_kQof4C3GicxmAIryijxAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753444343054-bfrgc9pidujnnalvg2nllp0r1dd3dhau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
